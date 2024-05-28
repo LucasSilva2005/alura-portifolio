@@ -57,6 +57,18 @@ body {
  font-family: var(--fonte-primaria);
 }
 
+.apresentacao__formacao{
+    font-size: 1.5rem;
+}
+
+.apresentacao__linguagens{
+    font-size: 1.5rem;
+}
+
+.apresentacao__linguagens_dominadas{
+    font-size: 1.5rem;
+}
+
 .titulo-destaque {
  color: var(--cor-terciaria);
 }
